@@ -22,7 +22,7 @@ public class Parser {
     }
 
     public void parse() {
-        mainDoc = ConnectionUtil.get(ParserParameters.PAGE);
+
     }
 
     public static void main(String[] args) {
